@@ -10,6 +10,7 @@ Issues and illusions are stacked on top of each other.
 ## Diplopia visual illusion
 - Eyes showing different views
 - Creates a disparity
+- Possibly with a zoom in one eye
 
 ## Sudden movement
 - Up/down with a button
